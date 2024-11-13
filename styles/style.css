@@ -1,1 +1,15 @@
-/* место для вашего кода */
+.header {
+  padding: 92px 24px 96px;
+}
+
+.lots {
+  padding: 179px 24px 0;
+}
+
+.about {
+  padding: 146px 24px 0;
+}
+
+.footer {
+  padding: 180px 26px 0;
+}
